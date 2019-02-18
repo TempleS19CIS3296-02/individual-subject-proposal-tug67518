@@ -2,6 +2,9 @@
 
 ## Each project proposal contains:
 
+  We all have our favorite TV shows. Whether you are an episode or ten seasons behind, the internet can be a minefield of spoilers. 
+
+
 - A one paragraph description of the overall project
 - A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx).
 - A one paragraph description of your proposed contribution
