@@ -1,8 +1,15 @@
 # IndividualProjectProposal
+  Pac-Man 2.0
 
 ## Each project proposal contains:
 
-  We all have our favorite TV shows. Whether you are an episode or ten seasons behind, the internet can be a minefield of spoilers. 
+  Lots of people, including myself, spent a lot of their childhood playing video games. One of the most iconic arcade games of all time, is Pac-Man. 
+  
+  This proposal is linked to the educational goals of this class.
+  
+  I found an open source project of the classic game of Pac-Man. Currently this game has one level and does not have chase mode. Chase mode is when Pac-Man eats an energizer and can eat the ghosts for a temporary time like he eats the dots. I want to create a unique version of Pac-Man while still including its most basic elements. I want to create new levels with challenging new mazes. I want to add new power ups and new enemies who will try to kill Pac-Man. 
+  
+  
 
 
 - A one paragraph description of the overall project
