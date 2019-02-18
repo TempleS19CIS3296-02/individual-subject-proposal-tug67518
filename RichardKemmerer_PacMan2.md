@@ -3,7 +3,7 @@
 
 ## Project Abstract
 
-  Lots of people, including myself, spent a lot of their childhood playing video games. One of the most iconic arcade games of all time, is Pac-Man. Pac-Man is an arcade game which requires the user to play as Pac-Man and advance from level to level without dying. The only way to die in Pac-Man is to run into one of the four ghosts. There are four ghosts named Blinky, Pinky, Inky, and Clyde. Once you eat all of the "dots" on the screen, you advance a level. Each dot gives you more points as you try to advance on the scoreboard. There are also power ups and energizers. In the game there are several energizers that let PacMan eat the ghosts for a short time frame and gain points for doing so. Ultimately, PacMan is an arcade game where people compete to see who can get the highest score.
+  Lots of people, including myself, spent part of their childhood playing video games. One of the most iconic arcade games of all time, is Pac-Man. Pac-Man is an arcade game which requires the user to play as Pac-Man and advance from level to level without dying. The only way to die in Pac-Man is to run into one of the four ghosts. There are four ghosts named Blinky, Pinky, Inky, and Clyde. Once you eat all of the "dots" on the screen, you advance a level. Each dot gives you more points as you try to advance on the scoreboard. There are also power ups and energizers. In the game there are several energizers that let PacMan eat the ghosts for a short time frame and gain points for doing so. Ultimately, PacMan is an arcade game where people compete to see who can get the highest score.
   
 ![Use Case Image](RichardKemmerer_PacMan2.png)  
   
@@ -23,5 +23,4 @@
   
   
 ## Required Resources  
-  IntelliJ/NetBeans
-  Github
+  IntelliJ/NetBeans and Github
